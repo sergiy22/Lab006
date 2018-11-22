@@ -1,0 +1,6 @@
+D:\ООП\Lab06Lib\Lab06Lib\bin\Debug\Lab06Lib.dll
+D:\ООП\Lab06Lib\Lab06Lib\bin\Debug\Lab06Lib.pdb
+D:\ООП\Lab06Lib\Lab06Lib\obj\Debug\Lab06Lib.csprojAssemblyReference.cache
+D:\ООП\Lab06Lib\Lab06Lib\obj\Debug\Lab06Lib.csproj.CoreCompileInputs.cache
+D:\ООП\Lab06Lib\Lab06Lib\obj\Debug\Lab06Lib.dll
+D:\ООП\Lab06Lib\Lab06Lib\obj\Debug\Lab06Lib.pdb

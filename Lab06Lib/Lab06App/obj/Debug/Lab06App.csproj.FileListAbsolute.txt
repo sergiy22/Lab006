@@ -1,0 +1,10 @@
+D:\ООП\Lab06Lib\Lab06App\bin\Debug\Lab06App.exe.config
+D:\ООП\Lab06Lib\Lab06App\bin\Debug\Lab06App.exe
+D:\ООП\Lab06Lib\Lab06App\bin\Debug\Lab06App.pdb
+D:\ООП\Lab06Lib\Lab06App\bin\Debug\Lab06Lib.dll
+D:\ООП\Lab06Lib\Lab06App\bin\Debug\Lab06Lib.pdb
+D:\ООП\Lab06Lib\Lab06App\obj\Debug\Lab06App.csprojAssemblyReference.cache
+D:\ООП\Lab06Lib\Lab06App\obj\Debug\Lab06App.csproj.CoreCompileInputs.cache
+D:\ООП\Lab06Lib\Lab06App\obj\Debug\Lab06App.csproj.CopyComplete
+D:\ООП\Lab06Lib\Lab06App\obj\Debug\Lab06App.exe
+D:\ООП\Lab06Lib\Lab06App\obj\Debug\Lab06App.pdb
